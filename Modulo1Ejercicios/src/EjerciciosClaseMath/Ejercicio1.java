@@ -1,4 +1,5 @@
 /*
+Ejercicio 1:
  * - Crear 2 variables enteras, una llamada “Base” y la otra “Exponente”, asignar valores a su criterio.
  * - Calcular la potencia utilizando el método Math.pow.
  * - Mostrar el resultado de la operación.

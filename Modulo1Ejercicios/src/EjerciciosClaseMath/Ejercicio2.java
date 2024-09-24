@@ -1,8 +1,9 @@
 /*
- * - hallar la raíz cuadrada de los siguientes números por medio del método Math.sqrt.
- * - 2, 8, 9, 27, 28, 55, 121.
- * - Mostrar los resultados de cada operación.
- */
+Ejercicio 2:
+- hallar la raíz cuadrada de los siguientes números por medio del método Math.sqrt.
+- 2, 8, 9, 27, 28, 55, 121.
+- Mostrar los resultados de cada operación.
+*/
 
 package EjerciciosClaseMath;
 

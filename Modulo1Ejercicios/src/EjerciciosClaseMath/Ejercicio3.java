@@ -1,9 +1,10 @@
 /*
- * - Generar 5 números aleatorios entre 0 y 10, que serán almacenados en 5 variables llamadas, “nota1”, “nota2” …,
- * - utilizar el método Math.random.
- * - Calcular el promedio de las 5 notas.
- * - Mostrar el resultado del promedio en pantalla.
- */
+Ejercicio 3:
+- Generar 5 números aleatorios entre 0 y 10, que serán almacenados en 5 variables llamadas, “nota1”, “nota2” …,
+- utilizar el método Math.random.
+- Calcular el promedio de las 5 notas.
+- Mostrar el resultado del promedio en pantalla.
+*/
 
 package EjerciciosClaseMath;
 

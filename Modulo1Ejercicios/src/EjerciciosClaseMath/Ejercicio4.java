@@ -1,9 +1,10 @@
 /*
- * - Generar 2 números con decimales aleatorios entre 1 y 50, que serán almacenados en dos variables.
- * - Redondear las dos variables anteriormente creadas por medio del método Math.round, Math.floor o Math.ceil.
- * - Calcular el número mayor por medio de Math.max.
- * - Mostrar el número mayor entre ambas variables.
- */
+Ejercicio 4: 
+- Generar 2 números con decimales aleatorios entre 1 y 50, que serán almacenados en dos variables.
+- Redondear las dos variables anteriormente creadas por medio del método Math.round, Math.floor o Math.ceil.
+- Calcular el número mayor por medio de Math.max.
+- Mostrar el número mayor entre ambas variables.
+*/
 
 package EjerciciosClaseMath;
 
